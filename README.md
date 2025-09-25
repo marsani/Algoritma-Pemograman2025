@@ -37,3 +37,8 @@ Presentasi & Refleksi	20%	Presentasi jelas, semua anggota berkontribusi, refleks
 + Bagian Praktik (50%): Implementasi algoritma searching/sorting/OOP.
 + Bagian Presentasi (30%): Menjelaskan alur program & analisis hasil AI.
 + Refleksi Tertulis (20%): Menjawab pertanyaan “apa yang harus tetap dipelajari manusia di era AI?”.
+
+# Catatan Implementasi
+Setiap tugas bisa dievaluasi cepat dengan rubrik 1–4 (sangat baik → kurang). 
+Kunci bukan hanya hasil program, tapi apakah mahasiswa bisa menjelaskan logika & membandingkan hasil AI.
+Rubrik ini mendorong mahasiswa jadi critical AI user, bukan sekadar copy-paste coder.
