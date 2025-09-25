@@ -25,8 +25,7 @@ Aspek utama: logika program, pemanfaatan AI secara bijak, kerja tim, dan present
 |Struktur Kode & Modularisasi	|20%	|Kode terorganisir (fungsi/class), mudah dibaca, konsisten|
 |Pemanfaatan AI secara Bijak	|20%|	AI digunakan untuk mendukung, bukan menyalin mentah; mahasiswa bisa menjelaskan hasil AI|
 |Dokumentasi & Flowchart	|10%	|Ada dokumentasi program, flowchart/pseudocode sesuai implementasi|
-
-Presentasi & Refleksi	20%	Presentasi jelas, semua anggota berkontribusi, refleksi kritis tentang kelebihan/kelemahan AI
+|Presentasi & Refleksi	|20%	|Presentasi jelas, semua anggota berkontribusi, refleksi kritis tentang kelebihan/kelemahan AI|
 
 # 3. Ujian Tengah Semester (UTS)
 
